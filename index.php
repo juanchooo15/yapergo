@@ -1,5 +1,5 @@
 <?php
-    $usuario = "alejandro";
+    $usuario = "perico";
     $fechaActual = date("d/m/Y");
 ?>
 <!DOCTYPE html>
